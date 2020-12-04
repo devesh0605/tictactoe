@@ -1,0 +1,5 @@
+npx nano-react-app tictactoe
+npm install
+npm run start
+
+npm run build
