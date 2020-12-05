@@ -3,3 +3,14 @@ npm install
 npm run start
 
 npm run build
+
+git init
+git add .
+git commit -m "init commit"
+git log
+git remote add origin https://github.com/devesh0605/tictacto
+e.git
+git push -u origin main
+
+
+rafce TAB
